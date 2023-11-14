@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leoverton</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Simple-Calculator](https://github.com/TXG0Fk3/Simple-Calculator)
-
+- 🔭 I’m currently working on Simple-Calculator
 - 🌱 I’m currently learning **GTK, ADW, MESON, C, JAVASCRIPT, GOBJECT...**
 
 - 👯 I’m looking to collaborate on **any projects**
