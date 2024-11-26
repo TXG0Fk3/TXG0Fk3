@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" height="30" alt="windows11 logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/preferences-system-linux-icon-825x1024-jeyuv4uc.png" height="30" alt="linux logo"  />
+  <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" height="30" alt="linux logo"  />
 </div>
 
 ###
