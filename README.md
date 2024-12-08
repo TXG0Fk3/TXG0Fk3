@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://kenji.blog/posts/visual-studio-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7/img_hue1a55f22c15dca7427db7cd2dfd89735_223690_480x0_resize_box_3.png" height="30" alt="visualstudio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
