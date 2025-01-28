@@ -28,11 +28,11 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.6988b344550cd3549730860132bcffd0?rik=A1uLUtt2RCTKSA&riu=http%3a%2f%2fwww.fpcomplete.com%2fwp-content%2fuploads%2f2023%2f04%2frust-logo-512x512_white.png&ehk=4wb8ls2dXWwVlWIglVsR9wRG88l7GM4JrBe9f4qGIRo%3d&risl=&pid=ImgRaw&r=0" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" height="30" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/cf735b00a13552a3f65867be555de24a51aff94c/topics/winui/winui.png" height="30" alt="WinUi3 logo" />
   <img width="12" />
