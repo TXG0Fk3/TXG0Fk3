@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/R.6988b344550cd3549730860132bcffd0?rik=A1uLUtt2RCTKSA&riu=http%3a%2f%2fwww.fpcomplete.com%2fwp-content%2fuploads%2f2023%2f04%2frust-logo-512x512_white.png&ehk=4wb8ls2dXWwVlWIglVsR9wRG88l7GM4JrBe9f4qGIRo%3d&risl=&pid=ImgRaw&r=0" height="30" alt="rust logo"  />
+  <img src="https://framablog.org/wp-content/uploads/2021/08/rustacean-orig-noshadow.png" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
