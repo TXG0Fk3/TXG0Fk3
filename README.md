@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" height="30" alt="windows11 logo"  />
   <img width="12" />
-  <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" height="30" alt="linux logo"  />
+  <img src="https://th.bing.com/th/id/R.ca1e3cbffbdb38fad2f932b9b83827a8?rik=3LKBfalCo3IXMA&riu=http%3a%2f%2fwiki.installgentoo.com%2fimages%2ff%2ff9%2fArch-linux-logo.png&ehk=zpCvsmXM4LTJwoWXpbb0MUPwP1CF8qQxIflAvYUr2CE%3d&risl=&pid=ImgRaw&r=0" height="30" alt="Arch Linux logo"  />
 </div>
 
 ###
