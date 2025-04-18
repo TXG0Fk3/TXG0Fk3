@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="160" src="https://i.redd.it/nclie1y3vyzb1.gif"  />
+<img align="right" height="160" src="https://64.media.tumblr.com/c54cc0334dc72952b8c3e3cd235c24c6/ca4cffc55a37b1a4-be/s540x810/1e1a368c80b667f69ceaa1890bbb584b3a387eb8.gif"  />
 
 ###
 
