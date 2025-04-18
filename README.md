@@ -21,7 +21,7 @@
      style="
        display: inline-flex;
        flex-wrap: wrap;
-       gap: 12px;
+       gap: 100px;
      ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
        alt="C logo" height="30" />
@@ -31,7 +31,7 @@
        alt="C# logo" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        alt="Python logo" height="30" />
-  <img src="https://framablog.org/wp-content/uploads/2021/08/rustacean-orig-noshadow.png"
+  <img src="https://github.com/user-attachments/assets/92f979ef-9464-470c-90ff-f517270f988e"
        alt="Rust logo" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
        alt="CSS3 logo" height="30" />
