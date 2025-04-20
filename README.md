@@ -17,43 +17,9 @@
 
 ###
 
-<div align="left"
-     style="
-       display: inline-flex;
-       flex-wrap: wrap;
-       gap: 100px;
-     ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-       alt="C++ logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-       alt="C# logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python logo" height="30" />
-  <img src="https://github.com/user-attachments/assets/92f979ef-9464-470c-90ff-f517270f988e"
-       alt="Rust logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       alt="CSS3 logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
-       alt="MariaDB logo" height="30" />
-  <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png"
-       alt=".NET logo" height="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/cf735b00a13552a3f65867be555de24a51aff94c/topics/winui/winui.png"
-       alt="WinUI3 logo" height="30" />
-  <img src="https://th.bing.com/th/id/R.ac55f88821f8035a0bebbff84e31da7d?rik=uMsWj1PshSqc%2bw&pid=ImgRaw&r=0"
-       alt="GTK logo" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"
-       alt="Visual Studio logo" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-       alt="VSCode logo" height="30" />
-  <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png"
-       alt="Windows 11 logo" height="30" />
-  <img src="https://th.bing.com/th/id/R.ca1e3cbffbdb38fad2f932b9b83827a8?rik=3LKBfalCo3IXMA&riu=http%3a%2f%2fwiki.installgentoo.com%2fimages%2ff%2ff9%2fArch-linux-logo.png&ehk=zpCvsmXM4LTJwoWXpbb0MUPwP1CF8qQxIflAvYUr2CE%3d&risl=&pid=ImgRaw&r=0"
-       alt="Arch Linux logo" height="30" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,css,mysql,dotnet,gtk,visualstudio,vscode,windows,arch&theme=dark" width="520" />
+</a>
 
 ###
 
