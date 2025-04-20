@@ -37,6 +37,8 @@
        alt="CSS3 logo" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
        alt="MySQL logo" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
+       alt="MariaDB logo" height="30" />
   <img src="https://learn.microsoft.com/dotnet/media/dotnet-logo.png"
        alt=".NET logo" height="30" />
   <img src="https://raw.githubusercontent.com/github/explore/cf735b00a13552a3f65867be555de24a51aff94c/topics/winui/winui.png"
