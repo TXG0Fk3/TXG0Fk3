@@ -17,7 +17,7 @@
 
 ## 🧠 Programming Languages
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js,ts&theme=dark" />
 </a>
 
 ## 💻 Shells and Scripting
@@ -27,7 +27,7 @@
 
 ## 🎨 Front-end Development
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html&theme=dark" />
 </a>
 
 ## 🛢️ Databases
