@@ -18,7 +18,7 @@
 ###
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,css,mysql,dotnet,gtk,visualstudio,vscode,windows,arch&theme=dark" width="520" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,powershell,bash,css,mysql,dotnet,gtk,docker,visualstudio,vscode,vim,windows,arch&theme=dark" width="520" />
 </a>
 
 ###
