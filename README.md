@@ -42,7 +42,7 @@
 
 ## 🧰 IDEs and Editors
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim&theme=dark" />
 </a>
 
 ## 🖥️ Operating Systems
