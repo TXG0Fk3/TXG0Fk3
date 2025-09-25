@@ -55,16 +55,16 @@
 ## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.youtube.com/@txg0fk3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=flat" height="30" alt="YouTube" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=flat" height="30" width="110" alt="YouTube" />
   </a>
   <a href="https://discord.com/users/txg0fk3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="30" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="30" width="110" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/leoverton-barros-xavier-565111307/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="30" width="90" alt="LinkedIn" />
   </a>
   <a href="https://ko-fi.com/txg0fk3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&style=flat" height="30" alt="Ko-fi" />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&style=flat" height="30" width="90" alt="Ko-fi" />
   </a>
 </div>
 
