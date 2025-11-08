@@ -37,7 +37,7 @@
 
 ## 🛠️ Frameworks and Tools
 <a href="https://skillicons.dev" align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,flask,gtk,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,gtk,docker,git,nix&theme=dark" />
 </a>
 
 ## 🧰 IDEs and Editors
