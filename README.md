@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-txg0fk3.vercel.app/api?username=TXG0Fk3&show_icons=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&timestamp=1" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-txg0fk3.vercel.app/api/top-langs?username=TXG0Fk3&layout=compact&langs_count=8&theme=catppuccin_mocha&timestamp=1" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-txg0fk3.vercel.app/api?username=TXG0Fk3&show_icons=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&cache_seconds=1800"" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-txg0fk3.vercel.app/api/top-langs?username=TXG0Fk3&layout=compact&langs_count=8&theme=catppuccin_mocha&cache_seconds=1800"" height="165" alt="languages graph" />
 </div>
 
 <br/>
