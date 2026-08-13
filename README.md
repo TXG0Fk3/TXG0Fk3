@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   <code> Hey! I build things with code </code>
-</h2>
+</h1>
 
 <div align="center">
   <a href="https://discord.com/users/txg0fk3">
