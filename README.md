@@ -42,7 +42,7 @@
   <a href="https://discord.com/users/txg0fk3" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/leoverton-barros-xavier-565111307/" target="_blank">
+  <a href="https://www.linkedin.com/in/leoverton-b-xavier-565111307/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ko-fi.com/txg0fk3" target="_blank">
