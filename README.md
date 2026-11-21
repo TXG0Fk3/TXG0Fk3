@@ -1,6 +1,7 @@
-<h1 align="center">
-  <code> Hey! I build things with code </code>
-</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eaa7d9a2-2317-46bb-8cfa-e50b3900773d" alt="Logo" width="160"/>
+  <h1><code> Hey! I build things with code </code></h1>
+</div>
 
 <div align="center">
   <a href="https://discord.com/users/txg0fk3">
